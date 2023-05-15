@@ -20,7 +20,7 @@ header {
   position: static;
   text-align: center;
   width: 99%;
-  background-color: ##000099;
+  background-color: #3385ff;
   text-align: center;
   border-radius: 5px;
 }
@@ -98,8 +98,8 @@ p {
 }
 
 .profilfoto {
-  width: 50px;
-  height: 50px;
+  width: 100px;
+  height: 100px;
 }
 
 #ausbildung li {
