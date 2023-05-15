@@ -1,0 +1,117 @@
+body {
+
+  background: linear-gradient(#0099cc, #b3ecff);
+}
+
+* {
+  font-family: Verdana;
+}
+
+main {
+  position: relative;
+}
+
+header {
+  position: relative;
+}
+
+.navigation {
+  border: 5px solid black;
+  position: static;
+  text-align: center;
+  width: 100%;
+  background-color: lightblue;
+  text-align: center;
+}
+
+.navigation a {
+  background: grey;
+  border: 1px solid grey;
+  border-radius: 5px;
+  color: white;
+  display: inline-block;
+  margin: 20px;
+  padding: 20px 15px;
+  text-decoration: none;
+  box-shadow: 0px 5px;
+  font-size: 20px;
+}
+
+.navigation a:hover {
+  background: white;
+  border: 1px solid grey;
+  color: black;
+}
+
+.navigation a:active {
+  margin-top: 5px;
+  margin-bottom: 5px;
+  box-shadow: 0px 0px;
+  background-color: #C0D6DF;
+  color: #ffffff;
+}
+
+/* Farbe der Links */
+a {
+  color: white;
+}
+
+/* Farbe der Links, wenn man mit der Maus drüberfährt */
+a:hover {
+  color: orange;
+}
+
+p {
+  text-align: justify;
+}
+
+.under-construction {
+  height: 235px;
+  width: 418px;
+}
+
+#willkommen {
+  position: relative;
+  background-color: lightblue;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+#ausbildung li {
+  list-style: square;
+  position: relative;
+}
+
+#berufserfahrung li {
+  list-style: square;
+  position: relative;
+}
+
+#kenntnissefähigkeiten li {
+  list-style: square;
+  position: relative;
+}
+
+#hobbies {
+  /* background-image: url("Gletscher.jpg"); */
+  position: relative;
+}
+
+#kontakt p {
+  width: 100%;
+  position: relative;
+}
+
+#kontakt a {
+  color: darkblue;
+}
+
+#kontakt a:hover {
+  color: grey;
+}
+
+footer {
+  text-align: center;
+}
