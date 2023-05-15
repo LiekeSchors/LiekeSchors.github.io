@@ -170,6 +170,8 @@ p {
 #kontakt a {
   color: darkblue;
   display: inline-block;
+  width: 100%;
+  border: solid 3px 
 }
 
 #kontakt a:hover {
