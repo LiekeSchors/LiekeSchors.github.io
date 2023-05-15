@@ -167,6 +167,7 @@ p {
 
 #kontakt a {
   color: darkblue;
+  display: inline-block;
 }
 
 #kontakt a:hover {
