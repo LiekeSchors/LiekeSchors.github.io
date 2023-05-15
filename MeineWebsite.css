@@ -17,7 +17,7 @@ header {
 
 .navigation {
   border: 5px solid black;
-  position: static;
+  position: sticky;
   text-align: center;
   width: 100%;
   background-color: lightblue;
