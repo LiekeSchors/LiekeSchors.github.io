@@ -105,6 +105,9 @@ p {
 #ausbildung li {
   list-style: square;
   position: relative;
+}
+
+#ausbildung {
   box-sizing: border-box;
   width: 100%;
   border-radius: 10px;
@@ -115,6 +118,9 @@ p {
 #berufserfahrung li {
   list-style: square;
   position: relative;
+}
+
+#berufserfahrung {
   box-sizing: border-box;
   width: 100%;
   border-radius: 10px;
@@ -125,6 +131,9 @@ p {
 #kenntnissefähigkeiten li {
   list-style: square;
   position: relative;
+}
+
+#kenntnissefähigkeiten {
   box-sizing: border-box;
   width: 100%;
   border-radius: 10px;
@@ -142,9 +151,13 @@ p {
   border: solid 5px black;
 }
 
+
 #kontakt p {
   width: 100%;
   position: relative;
+}
+
+#kontakt {
   box-sizing: border-box;
   width: 100%;
   border-radius: 10px;
