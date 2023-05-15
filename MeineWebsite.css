@@ -52,11 +52,11 @@ header {
   color: #ffffff;
 }
 
-.breadcrumb > li {
-  display: inline;
-}
+/* .breadcrumb > li { */
+/*   display: inline; */
+/* } */
 
-.breadcrumb li+li::before {
+/* .breadcrumb li+li::before {
   padding: 8px;
   content: ">";
 }
@@ -67,7 +67,7 @@ header {
 
 .breadcrumb a:hover {
   color: black;
-}
+} */
 
 /* Farbe der Links */
 a {
