@@ -95,8 +95,11 @@ p {
   width: 100%;
   border-radius: 10px;
   padding: 10px;
-/*   <img src="Foto.png" title="Das bin ich">  */
-          <img URL("C:\Users\lieke\Documents\Atom Projekte\Foto.png") title="Das bin ich">
+}
+
+.Profilfoto {
+  width: 100px;
+  height: 100px;
 }
 
 #ausbildung li {
