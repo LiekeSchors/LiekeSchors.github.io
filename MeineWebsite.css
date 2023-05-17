@@ -13,12 +13,16 @@ main {
 
 header {
   position: relative;
-  margin: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
 }
 
 .TUC {
-  margin: 10px,
+  border: 5px solid black;
+  border-radius: 5px;
 }
+
+
 
 .navigation {
   border: 5px solid black;
