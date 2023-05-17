@@ -15,11 +15,14 @@ header {
   position: relative;
   border: 2px solid black;
   border-radius: 5px;
+  margin: 10px;
 }
 
 #TUC {
+  position: relative;
   border: 5px solid black;
   border-radius: 5px;
+  margin: 10px;
 }
 
 
