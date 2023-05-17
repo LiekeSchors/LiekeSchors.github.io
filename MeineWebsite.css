@@ -168,11 +168,6 @@ p {
   margin: 10px;
 }
 
-.EMail, .FB, .LI {
-  border: solid 3px black;
-  border-radius: 10px;
-  width: 33.3%;
-}
 
 #kontakt p {
   width: 100%;
