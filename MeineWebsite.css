@@ -16,6 +16,7 @@ header {
   border: 2px solid black;
   border-radius: 5px;
   margin: 10px;
+  width: 100%;
 }
 
 #TUC {
@@ -23,6 +24,7 @@ header {
   border: 5px solid black;
   border-radius: 5px;
   margin: 10px;
+  width: 100%;
 }
 
 
