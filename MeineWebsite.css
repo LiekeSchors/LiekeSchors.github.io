@@ -16,6 +16,10 @@ header {
   margin: 10px;
 }
 
+.TUC {
+  margin: 10px,
+}
+
 .navigation {
   border: 5px solid black;
   position: static;
