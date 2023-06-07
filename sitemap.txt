@@ -1,0 +1,6 @@
+LiekeSchors.github.io/index.html
+LiekeSchors.github.io/ausbildung.html
+LiekeSchors.github.io/berufserfahrung.html
+LiekeSchors.github.io/hobbies.html
+LiekeSchors.github.io/kenntnisse.html
+LiekeSchors.github.io/kontakt.html
